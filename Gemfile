@@ -32,3 +32,8 @@ end
 group :production do
   gem 'pg', '0.12.2'
 end
+
+source 'http://rubygems.org'
+
+gem 'rails', '3.2.13'
+gem 'bootstrap-sass', '2.1'
